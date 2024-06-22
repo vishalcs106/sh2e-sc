@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  },
+  "dependencies": {
+    "@tma.js/sdk": "^2.5.1",
+    "@tma.js/sdk-react": "^2.2.5"
+  }
+}
